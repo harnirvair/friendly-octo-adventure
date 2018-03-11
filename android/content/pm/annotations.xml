@@ -1,0 +1,6 @@
+<root>
+    <item
+        name='android.content.pm.PackageManager java.lang.String getInstallerPackageName(java.lang.String)'>
+        <annotation name='android.support.annotation.NonNull' />
+    </item>
+</root>
